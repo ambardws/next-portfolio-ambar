@@ -23,17 +23,18 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
-            <span className="font-semibold text-teal-600">
+            <span className="font-semibold text-blue-700">
               Software Engineer{" "}
             </span>
-            and I am IT graduate who has not yet had any working experience in
-            the IT field, that is why I am currently learning to prepare my
-            skills and abilities to be ready to work in the IT field or as a
-            programmer.
+            and i'm an experienced frontend developer with 1 year of professional expertise. 
+            I specialize in creating user-friendly web applications using HTML, CSS, and JavaScript. 
+            I'm passionate about crafting visually appealing and engaging websites. 
+            <br /><br />
+            Let's connect and create amazing digital experiences together!
           </p>
           <Link
             to="projects"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+            className="text-neutral-100 font-semibold px-6 py-3 bg-blue-600 rounded shadow hover:bg-blue-700"
             activeClass="active"
             spy={true}
             smooth={true}
