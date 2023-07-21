@@ -26,11 +26,13 @@ const HeroSection = () => {
             <span className="font-semibold text-blue-700">
               Software Engineer{" "}
             </span>
-            and i'm an experienced frontend developer with 1 year of professional expertise. 
-            I specialize in creating user-friendly web applications using HTML, CSS, and JavaScript. 
-            I'm passionate about crafting visually appealing and engaging websites. 
-            <br /><br />
-            Let's connect and create amazing digital experiences together!
+            and i&#39;m an experienced frontend developer with 1 year of
+            professional expertise. I specialize in creating user-friendly web
+            applications using HTML, CSS, and JavaScript. I&#39;m passionate
+            about crafting visually appealing and engaging websites.
+            <br />
+            <br />
+            Let&#39;s connect and create amazing digital experiences together!
           </p>
           <Link
             to="projects"
